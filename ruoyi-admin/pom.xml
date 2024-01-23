@@ -61,6 +61,12 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>ruoyi-control</artifactId>
+            <version>3.8.7</version>
+        </dependency>
+
     </dependencies>
 
     <build>
